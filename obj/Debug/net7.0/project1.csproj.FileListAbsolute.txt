@@ -1,0 +1,15 @@
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.csproj.AssemblyReference.cache
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.AssemblyInfoInputs.cache
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.AssemblyInfo.cs
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.csproj.CoreCompileInputs.cache
+/home/aman.kumar/Desktop/Csharp/project1/bin/Debug/net7.0/project1
+/home/aman.kumar/Desktop/Csharp/project1/bin/Debug/net7.0/project1.deps.json
+/home/aman.kumar/Desktop/Csharp/project1/bin/Debug/net7.0/project1.runtimeconfig.json
+/home/aman.kumar/Desktop/Csharp/project1/bin/Debug/net7.0/project1.dll
+/home/aman.kumar/Desktop/Csharp/project1/bin/Debug/net7.0/project1.pdb
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.dll
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/refint/project1.dll
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.pdb
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/project1.genruntimeconfig.cache
+/home/aman.kumar/Desktop/Csharp/project1/obj/Debug/net7.0/ref/project1.dll
